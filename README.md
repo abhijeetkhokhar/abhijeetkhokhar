@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working in **FunctionUp School of Technology**
+- 🔭 I’m currently working in **Polaris School of Technology**
 
-- 🌱 I’m currently learning **Frontend development**
+- 🌱 I’m currently learning **Full-Stack Development**
 
 - 📫 How to reach me **abhijeetkhokhar01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/124j42S38kZ7MqbM6RIU6kpwsmf3VURZa/view?usp=sharing](https://drive.google.com/file/d/124j42S38kZ7MqbM6RIU6kpwsmf3VURZa/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/124j42S38kZ7MqbM6RIU6kpwsmf3VURZa/view?usp=sharing](https://drive.google.com/file/d/1mnYy31yy047Rt9m22LBlhBEb4OV2T5FC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
