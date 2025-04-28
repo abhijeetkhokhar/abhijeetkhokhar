@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhijeetkhokhar01@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/124j42S38kZ7MqbM6RIU6kpwsmf3VURZa/view?usp=sharing](https://drive.google.com/file/d/1JtiU9clUwVZQqBtICrlv-ZPlvZLE34iJ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/124j42S38kZ7MqbM6RIU6kpwsmf3VURZa/view?usp=sharing](https://drive.google.com/file/d/1JtiU9clUwVZQqBtICrlv-ZPlvZLE34iJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
